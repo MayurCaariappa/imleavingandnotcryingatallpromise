@@ -47,3 +47,17 @@
     opacity: 1;
   }
 }
+
+footer {
+  position: absolute;
+  bottom: 1rem;
+  left: 0;
+  right: 0;
+  font-size: 0.9em;
+  color: #888;
+  text-align: center; /* Center the text */
+}
+
+footer div {
+  margin: 0.3rem 0;
+}
